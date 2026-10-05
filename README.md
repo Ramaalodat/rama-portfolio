@@ -1,60 +1,27 @@
-<div align="center">
+# Rama Alodat — Portfolio
 
-# Rama Feras Alodat
-### Data Science & Artificial Intelligence
+A personal portfolio for my Data Science and Artificial Intelligence work.
 
-An analytical mind. A creative perspective.
+## Explore
+- Portfolio: https://ramaalodat.github.io/rama-portfolio/
+- Human Development Explorer: https://ramaalodat.github.io/rama-portfolio/demos/powerbi/
+- Life at Home game: https://antigravity-life.vercel.app
 
-[Explore the portfolio](https://ramaalodat.github.io/rama-portfolio/) · [LinkedIn](https://www.linkedin.com/in/rama-alodat-686aa932a) · [Get in touch](mailto:ramaferas2005@gmail.com)
+## Featured experience
+Project screenshots and recordings, full-screen galleries, certificate previews, project filters, and responsive layouts.
 
-<img src="assets/rama-hero.webp" alt="Cobalt and rose glass sculpture representing data and creativity" width="660">
+## Power BI web demo
+The browser dashboard recreates selected analysis using 36 rows extracted from Rama1.pbix: 12 countries, years 2001, 2010 and 2022, and nine health and education indicators. It supports country and indicator selection, year comparisons, and CSV export. It is a web recreation, not an embedded Power BI report.
 
-</div>
-
-## About this portfolio
-
-A collection of my work across medical AI, predictive analytics, intelligent applications, and data visualization — alongside the learning and creativity behind it.
-
-The portfolio includes eight project overviews, grouped skills, education and training, certificates, a recommendation letter, and an award-winning writing excerpt.
-
-## Selected work
-
-| Project | Focus | Repository |
-|---|---|---|
-| Medical AI Diagnostic Assistant | Medical AI and computer vision | [MedAssist-AI](https://github.com/Ramaalodat/MedAssist-AI) |
-| Human Development: Health & Education Efficiency | Power BI and data storytelling | [powerbi](https://github.com/Ramaalodat/powerbi) |
-| Alpha | Financial goal planning | [alphav3](https://github.com/Ramaalodat/alphav3) |
-| Smart City Assistant | Parking occupancy prediction | [Smart_parking](https://github.com/Ramaalodat/Smart_parking) |
-| Pathfinder AI — team project | Intelligent travel assistance | [PathFinder-AI](https://github.com/Ramaalodat/PathFinder-AI) |
-| InsightCV — team project | CV and interview support | [Project-InsightCV](https://github.com/Ramaalodat/Project-InsightCV) |
-| Donation platform — team project | Bilingual donation workflows | [TBR3](https://github.com/Ramaalodat/TBR3) |
-
-TechBuddy is also featured on the website; no public repository is linked.
+Original report: https://github.com/Ramaalodat/powerbi
 
 ## Run locally
+Run python -m http.server 8765 from this folder and open http://localhost:8765. Serving over HTTP is required for gallery and dashboard data loading.
 
-This is a static website with no installation or API keys required.
+## Files
+- index.html, style.css, script.js: portfolio
+- assets/projects/: actual project screenshots and recordings
+- certificates/: certificates and recommendation
+- demos/powerbi/: interactive dashboard and extracted data
 
-```bash
-python -m http.server 8000
-```
-
-Open **http://localhost:8000**, or open `index.html` directly.
-
-## Structure
-
-| File or folder | Purpose |
-|---|---|
-| `index.html` | Portfolio content and sections |
-| `style.css` | Responsive visual design |
-| `script.js` | Project filters and mobile navigation |
-| `assets/` | Original portfolio artwork and project imagery |
-| `certificates/` | Training documents and recommendation letter |
-
-## Updating the portfolio
-
-Edit the relevant section in `index.html`. Place new certificate documents in `certificates/` and add their links to the certificate gallery. Changes pushed to `main` are published through GitHub Pages.
-
----
-
-**Rama Feras Alodat** · Jordan · [LinkedIn](https://www.linkedin.com/in/rama-alodat-686aa932a)
+Published with GitHub Pages.
