@@ -2,7 +2,7 @@
 
 Personal portfolio for Data Science & Artificial Intelligence projects, experience, certificates, and creative writing.
 
-## Website
+## Website (public publication pending)
 https://Ramaalodat.github.io/rama-portfolio/
 
 ## Structure
