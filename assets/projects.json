@@ -1,1 +1,132 @@
-[{"title": "Medical AI Diagnostic Assistant", "category": "AI & Computer Vision", "description": "An AI-based web platform exploring preliminary disease prediction from symptoms and medical images, including brain scans, chest images, and bone X-rays.", "tech": "Python · Machine Learning · Deep Learning · Computer Vision", "repo": "https://github.com/Ramaalodat/MedAssist-AI", "media": ["assets/projects/MedicalAI/00.webp", "assets/projects/MedicalAI/01.webp"]}, {"title": "Human Development Explorer", "category": "Data Analytics", "description": "My original two-page Power BI report exploring global health outcomes, education spending, and access to essential services across 12 countries.", "tech": "Power BI · Power Query · Data Visualization", "repo": "https://github.com/Ramaalodat/powerbi", "media": ["assets/projects/powerbi/report-1.webp", "assets/projects/powerbi/report-2.webp"], "demo": "demos/powerbi/", "demoLabel": "View original report"}, {"title": "Alpha", "category": "Intelligent Applications", "description": "A financial planning application with financial goal tracking and planning workflows.", "tech": "Flutter · Node.js · MySQL", "repo": "https://github.com/Ramaalodat/alphav3", "media": ["assets/projects/alpha/00.webp", "assets/projects/alpha/01.webp", "assets/projects/alpha/02.webp", "assets/projects/alpha/03.webp", "assets/projects/alpha/04.webp", "assets/projects/alpha/05.webp", "assets/projects/alpha/06.webp", "assets/projects/alpha/07.webp", "assets/projects/alpha/08.webp", "assets/projects/alpha/09.webp", "assets/projects/alpha/10.webp", "assets/projects/alpha/11.webp", "assets/projects/alpha/12.webp", "assets/projects/alpha/13.webp", "assets/projects/alpha/14.webp", "assets/projects/alpha/15.webp", "assets/projects/alpha/16.webp", "assets/projects/alpha/17.webp", "assets/projects/alpha/18.webp", "assets/projects/alpha/19.webp", "assets/projects/alpha/20.webp", "assets/projects/alpha/21.webp", "assets/projects/alpha/22.webp", "assets/projects/alpha/23.webp", "assets/projects/alpha/24.webp", "assets/projects/alpha/25.webp", "assets/projects/alpha/26.webp"]}, {"title": "Smart City Assistant", "category": "Machine Learning", "description": "Predicts parking occupancy and recommends restaurant visit times based on parking availability.", "tech": "Python · Pandas · Scikit-learn", "repo": "https://github.com/Ramaalodat/Smart_parking", "media": ["assets/projects/smartcity/00.webp"]}, {"title": "Pathfinder AI", "category": "Intelligent Applications", "description": "A travel assistant helping travelers, especially solo travelers, plan trips and make informed travel decisions.", "tech": "Flutter · Node.js · Firebase · Google APIs · Gemini AI", "repo": "https://github.com/Ramaalodat/PathFinder-AI", "media": ["assets/projects/Pathfinderai/preview.mp4"]}, {"title": "TechBuddy", "category": "Intelligent Applications", "description": "An AI chatbot assistant for computer hardware shops, with recommendations informed by user preferences.", "tech": "Node.js · HTML · Flowise", "repo": null, "media": []}, {"title": "InsightCV", "category": "Intelligent Applications", "description": "An AI-driven platform helping users improve their CVs, practice interviews, and prepare for the job market.", "tech": "PHP · Node.js · HTML · MongoDB", "repo": "https://github.com/Ramaalodat/Project-InsightCV", "media": ["assets/projects/insightcv/00.webp", "assets/projects/insightcv/01.webp", "assets/projects/insightcv/02.webp"]}, {"title": "تبرّع — Donation Platform", "category": "Web Development", "description": "A bilingual Arabic and English platform connecting donors with people in need, with a focus on reducing waste and promoting donation values.", "tech": "Node.js · MongoDB · HTML · CSS", "repo": "https://github.com/Ramaalodat/TBR3", "media": ["assets/projects/tbr3/00.gif", "assets/projects/tbr3/01.gif", "assets/projects/tbr3/02.gif", "assets/projects/tbr3/03.gif", "assets/projects/tbr3/04.gif", "assets/projects/tbr3/05.gif"]}, {"title": "Life at Home", "category": "Web Development", "description": "Explore my game directly in your browser.", "tech": "Browser game", "repo": null, "media": [], "demo": "https://antigravity-life.vercel.app", "demoLabel": "Play the game"}]
+[
+  {
+    "title": "Medical AI Diagnostic Assistant",
+    "category": "AI & Computer Vision",
+    "description": "An AI-based web platform exploring preliminary disease prediction from symptoms and medical images, including brain scans, chest images, and bone X-rays.",
+    "tech": "Python · Machine Learning · Deep Learning · Computer Vision",
+    "repo": "https://github.com/Ramaalodat/MedAssist-AI",
+    "media": [
+      "assets/projects/MedicalAI/00.webp",
+      "assets/projects/MedicalAI/01.webp"
+    ]
+  },
+  {
+    "title": "Human Development Explorer",
+    "category": "Data Analytics",
+    "description": "My original two-page Power BI report exploring global health outcomes, education spending, and access to essential services across 12 countries.",
+    "tech": "Power BI · Power Query · Data Visualization",
+    "repo": "https://github.com/Ramaalodat/powerbi",
+    "media": [
+      "assets/projects/powerbi/report-1.webp",
+      "assets/projects/powerbi/report-2.webp"
+    ],
+    "demo": "demos/powerbi/",
+    "demoLabel": "View original report"
+  },
+  {
+    "title": "Alpha",
+    "category": "Intelligent Applications",
+    "description": "A financial planning application with financial goal tracking and planning workflows.",
+    "tech": "Flutter · Node.js · MySQL",
+    "repo": "https://github.com/Ramaalodat/alphav3",
+    "media": [
+      "assets/projects/alpha/00.webp",
+      "assets/projects/alpha/01.webp",
+      "assets/projects/alpha/02.webp",
+      "assets/projects/alpha/03.webp",
+      "assets/projects/alpha/04.webp",
+      "assets/projects/alpha/05.webp",
+      "assets/projects/alpha/06.webp",
+      "assets/projects/alpha/07.webp",
+      "assets/projects/alpha/08.webp",
+      "assets/projects/alpha/09.webp",
+      "assets/projects/alpha/10.webp",
+      "assets/projects/alpha/11.webp",
+      "assets/projects/alpha/12.webp",
+      "assets/projects/alpha/13.webp",
+      "assets/projects/alpha/14.webp",
+      "assets/projects/alpha/15.webp",
+      "assets/projects/alpha/16.webp",
+      "assets/projects/alpha/17.webp",
+      "assets/projects/alpha/18.webp",
+      "assets/projects/alpha/19.webp",
+      "assets/projects/alpha/20.webp",
+      "assets/projects/alpha/21.webp",
+      "assets/projects/alpha/22.webp",
+      "assets/projects/alpha/23.webp",
+      "assets/projects/alpha/24.webp",
+      "assets/projects/alpha/25.webp",
+      "assets/projects/alpha/26.webp"
+    ]
+  },
+  {
+    "title": "Smart City Assistant",
+    "category": "Machine Learning",
+    "description": "Predicts parking occupancy and recommends restaurant visit times based on parking availability.",
+    "tech": "Python · Pandas · Scikit-learn",
+    "repo": "https://github.com/Ramaalodat/Smart_parking",
+    "media": [
+      "assets/projects/smartcity/00.webp"
+    ]
+  },
+  {
+    "title": "Pathfinder AI",
+    "category": "Intelligent Applications",
+    "description": "A travel assistant helping travelers, especially solo travelers, plan trips and make informed travel decisions.",
+    "tech": "Flutter · Node.js · Firebase · Google APIs · Gemini AI",
+    "repo": "https://github.com/Ramaalodat/PathFinder-AI",
+    "media": [
+      "assets/projects/Pathfinderai/preview.mp4"
+    ]
+  },
+  {
+    "title": "TechBuddy",
+    "category": "Intelligent Applications",
+    "description": "An AI chatbot assistant for computer hardware shops, with recommendations informed by user preferences.",
+    "tech": "Node.js · HTML · Flowise",
+    "repo": null,
+    "media": [
+      "assets/projects/TechBuddy/cover.webp"
+    ],
+    "visualType": "illustration"
+  },
+  {
+    "title": "InsightCV",
+    "category": "Intelligent Applications",
+    "description": "An AI-driven platform helping users improve their CVs, practice interviews, and prepare for the job market.",
+    "tech": "PHP · Node.js · HTML · MongoDB",
+    "repo": "https://github.com/Ramaalodat/Project-InsightCV",
+    "media": [
+      "assets/projects/insightcv/00.webp",
+      "assets/projects/insightcv/01.webp",
+      "assets/projects/insightcv/02.webp"
+    ]
+  },
+  {
+    "title": "تبرّع — Donation Platform",
+    "category": "Web Development",
+    "description": "A bilingual Arabic and English platform connecting donors with people in need, with a focus on reducing waste and promoting donation values.",
+    "tech": "Node.js · MongoDB · HTML · CSS",
+    "repo": "https://github.com/Ramaalodat/TBR3",
+    "media": [
+      "assets/projects/tbr3/00.gif",
+      "assets/projects/tbr3/01.gif",
+      "assets/projects/tbr3/02.gif",
+      "assets/projects/tbr3/03.gif",
+      "assets/projects/tbr3/04.gif",
+      "assets/projects/tbr3/05.gif"
+    ]
+  },
+  {
+    "title": "Life at Home",
+    "category": "Web Development",
+    "description": "Explore my game directly in your browser.",
+    "tech": "Browser game",
+    "repo": null,
+    "media": [
+      "assets/projects/life/menu.webp"
+    ],
+    "demo": "https://antigravity-life.vercel.app",
+    "demoLabel": "Play the game"
+  }
+]
