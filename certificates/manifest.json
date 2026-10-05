@@ -1,122 +1,250 @@
 [
-    {
-        "file":  "certificate-Ai-in-Industry-Workshop.jpeg",
-        "label":  "Ai in Industry Workshop"
-    },
-    {
-        "file":  "certificate-Al-Mafraq-AI-Hackathon-2025.jpeg",
-        "label":  "Al Mafraq AI Hackathon 2025"
-    },
-    {
-        "file":  "certificate-ana-ashark.jpeg",
-        "label":  "ana ashark"
-    },
-    {
-        "file":  "certificate-Arduino-Basics-Workshop.jpeg",
-        "label":  "Arduino Basics Workshop"
-    },
-    {
-        "file":  "certificate-Arduino.jpeg",
-        "label":  "Arduino"
-    },
-    {
-        "file":  "certificate-ashark+.jpeg",
-        "label":  "ashark+"
-    },
-    {
-        "file":  "certificate-Computer-Vision-in-Artificial-Intelligence.jpeg",
-        "label":  "Computer Vision in Artificial Intelligence"
-    },
-    {
-        "file":  "certificate-Digital-Content-Intelligence.jpeg",
-        "label":  "Digital Content Intelligence"
-    },
-    {
-        "file":  "certificate-Exploring-Extended-Reality-VR.AR-\u0026-MR.jpeg",
-        "label":  "Exploring Extended Reality VR.AR \u0026 MR"
-    },
-    {
-        "file":  "certificate-Free-Webinar-introduction-Python-Language.jpeg",
-        "label":  "Free Webinar introduction Python Language"
-    },
-    {
-        "file":  "certificate-Fundamentals-of-Innovation-in-Tangible-Product-Development.jpeg",
-        "label":  "Fundamentals of Innovation in Tangible Product Development"
-    },
-    {
-        "file":  "certificate-Fundamentals-of-Robotics-Using-Artificial-Intelligence.jpeg",
-        "label":  "Fundamentals of Robotics Using Artificial Intelligence"
-    },
-    {
-        "file":  "certificate-Impact-Measurement-Training.jpeg",
-        "label":  "Impact Measurement Training"
-    },
-    {
-        "file":  "certificate-Introduction-to-Al-Workshop.jpeg",
-        "label":  "Introduction to Al Workshop"
-    },
-    {
-        "file":  "certificate-Leadership-in-Game-Design.jpeg",
-        "label":  "Leadership in Game Design"
-    },
-    {
-        "file":  "certificate-Line-Following-Competition.jpeg",
-        "label":  "Line Following Competition"
-    },
-    {
-        "file":  "certificate-loT-Workshop.jpeg",
-        "label":  "loT Workshop"
-    },
-    {
-        "file":  "certificate-Participating-in-a-study-on-life-skills.jpeg",
-        "label":  "Participating in a study on life skills"
-    },
-    {
-        "file":  "certificate-participation-in-the-Al-Bootcamp1.jpeg",
-        "label":  "participation in the Al Bootcamp1"
-    },
-    {
-        "file":  "certificate-participation-in-the-Build-with-Al-Hackathon-2025.jpeg",
-        "label":  "participation in the Build with Al Hackathon 2025"
-    },
-    {
-        "file":  "certificate-Robotics-Workshop.jpeg",
-        "label":  "Robotics Workshop"
-    },
-    {
-        "file":  "certificate-Smart-Leadership-in-Supply Chains.jpeg",
-        "label":  "Smart Leadership in Supply Chains"
-    },
-    {
-        "file":  "certificate-soft-skills-Training.jpeg",
-        "label":  "soft skills Training"
-    },
-    {
-        "file":  "certificate-the-basics-of-line-following-robot-building-training.jpeg",
-        "label":  "the basics of line following robot building training"
-    },
-    {
-        "file":  "certificate-The-Future-of-Artificial-Intelligence-in-Business.jpeg",
-        "label":  "The Future of Artificial Intelligence in Business"
-    },
-    {
-        "file":  "certificate-The-Psychology-of-Dialogue.jpeg",
-        "label":  "The Psychology of Dialogue"
-    },
-    {
-        "file":  "certificate-Your-Journey-from-University-Life-t-the-Job-Market.jpeg",
-        "label":  "Your Journey from University Life t the Job Market"
-    },
-    {
-        "file":  "DecodeLabs Internship Certificate (1).pdf",
-        "label":  "DecodeLabs Internship Certificate (1)"
-    },
-    {
-        "file":  "Letter_of_Recommendation.pdf",
-        "label":  "Letter_of_Recommendation"
-    },
-    {
-        "file":  "WhatsApp Image 2026-10-05 at 4.18.33 PM.jpeg",
-        "label":  "WhatsApp Image 2026 10 05 at 4.18.33 PM"
-    }
+  {
+    "title": "Fintech Rally 2026 — Phase 1",
+    "issuer": "JOIN Fincubator · JoPACC",
+    "date": "July 2026 · Concept Evaluation",
+    "category": "Hackathons",
+    "original": "certificates/WhatsApp.jpeg",
+    "preview": "assets/certificates/00.webp"
+  },
+  {
+    "title": "AI Virtual Internship",
+    "issuer": "DecodeLabs",
+    "date": "June 1–July 1, 2026",
+    "category": "AI & Data",
+    "original": "certificates/DecodeLabs%20Internship%20Certificate%20%281%29.pdf",
+    "preview": "assets/certificates/01.webp"
+  },
+  {
+    "title": "Microsoft Copilot Fundamentals",
+    "issuer": "Vocational Training Corporation · Digital Skills Academy",
+    "date": "September 2026 · 15 hours",
+    "category": "Technology",
+    "original": "certificates/WhatsApp%20Image%202026-10-05%20at%204.18.33%20PM.jpeg",
+    "preview": "assets/certificates/02.webp"
+  },
+  {
+    "title": "Soft Skills Training",
+    "issuer": "Robotna × STEM",
+    "date": "July 7–9, 2026 · 15 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-soft-skills-Training.jpeg",
+    "preview": "assets/certificates/03.webp"
+  },
+  {
+    "title": "Future of AI in Business",
+    "issuer": "Crown Prince Foundation — Zarqa",
+    "date": "July 5, 2026 · 1 hour",
+    "category": "AI & Data",
+    "original": "certificates/certificate-The-Future-of-Artificial-Intelligence-in-Business.jpeg",
+    "preview": "assets/certificates/04.webp"
+  },
+  {
+    "title": "Impact Measurement Training",
+    "issuer": "Al al-Bayt University · Innovation & Entrepreneurship Center",
+    "date": "March 2026 · 12 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-Impact-Measurement-Training.jpeg",
+    "preview": "assets/certificates/05.webp"
+  },
+  {
+    "title": "Mafraq AI Hackathon 2025",
+    "issuer": "Afaq Technology Team · Jordan Engineers Association — Mafraq",
+    "date": "2025",
+    "category": "Hackathons",
+    "original": "certificates/certificate-Al-Mafraq-AI-Hackathon-2025.jpeg",
+    "preview": "assets/certificates/06.webp"
+  },
+  {
+    "title": "Build with AI Hackathon 2025",
+    "issuer": "Build with AI · Team Googleists",
+    "date": "October 7, 2025",
+    "category": "Hackathons",
+    "original": "certificates/certificate-participation-in-the-Build-with-Al-Hackathon-2025.jpeg",
+    "preview": "assets/certificates/07.webp"
+  },
+  {
+    "title": "AI Bootcamp",
+    "issuer": "Zain · Nokia · Balqa Applied University · Kawkab AI",
+    "date": "September 14–18, 2025",
+    "category": "AI & Data",
+    "original": "certificates/certificate-participation-in-the-Al-Bootcamp1.jpeg",
+    "preview": "assets/certificates/08.webp"
+  },
+  {
+    "title": "AI in Industry Workshop",
+    "issuer": "IEEE RAS · RASCadia Bootcamp",
+    "date": "October 5, 2025",
+    "category": "AI & Data",
+    "original": "certificates/certificate-Ai-in-Industry-Workshop.jpeg",
+    "preview": "assets/certificates/09.webp"
+  },
+  {
+    "title": "Introduction to AI Workshop",
+    "issuer": "IEEE RAS · RASCadia Bootcamp",
+    "date": "October 8, 2025",
+    "category": "AI & Data",
+    "original": "certificates/certificate-Introduction-to-Al-Workshop.jpeg",
+    "preview": "assets/certificates/10.webp"
+  },
+  {
+    "title": "Arduino Basics Workshop",
+    "issuer": "IEEE RAS · RASCadia Bootcamp",
+    "date": "October 6, 2025",
+    "category": "Robotics",
+    "original": "certificates/certificate-Arduino-Basics-Workshop.jpeg",
+    "preview": "assets/certificates/11.webp"
+  },
+  {
+    "title": "Robotics Workshop",
+    "issuer": "IEEE RAS · RASCadia Bootcamp",
+    "date": "October 7, 2025",
+    "category": "Robotics",
+    "original": "certificates/certificate-Robotics-Workshop.jpeg",
+    "preview": "assets/certificates/12.webp"
+  },
+  {
+    "title": "IoT Workshop",
+    "issuer": "IEEE RAS · RASCadia Bootcamp",
+    "date": "October 3, 2025",
+    "category": "Robotics",
+    "original": "certificates/certificate-loT-Workshop.jpeg",
+    "preview": "assets/certificates/13.webp"
+  },
+  {
+    "title": "Robotics Fundamentals using AI",
+    "issuer": "Crown Prince Foundation — Mafraq · Nahno",
+    "date": "July 29–30, 2025 · 8 hours",
+    "category": "Robotics",
+    "original": "certificates/certificate-Fundamentals-of-Robotics-Using-Artificial-Intelligence.jpeg",
+    "preview": "assets/certificates/14.webp"
+  },
+  {
+    "title": "Innovation in Tangible Product Development",
+    "issuer": "Crown Prince Foundation — Mafraq · Nahno",
+    "date": "March 18, 2025 · 2 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-Fundamentals-of-Innovation-in-Tangible-Product-Development.jpeg",
+    "preview": "assets/certificates/15.webp"
+  },
+  {
+    "title": "Basics of Line-Following Robot Building",
+    "issuer": "ArBoTech · Al al-Bayt University",
+    "date": "February 22, 2025 · 9 hours",
+    "category": "Robotics",
+    "original": "certificates/certificate-the-basics-of-line-following-robot-building-training.jpeg",
+    "preview": "assets/certificates/16.webp"
+  },
+  {
+    "title": "Line Following Competition",
+    "issuer": "Al al-Bayt University",
+    "date": "February 26, 2025",
+    "category": "Robotics",
+    "original": "certificates/certificate-Line-Following-Competition.jpeg",
+    "preview": "assets/certificates/17.webp"
+  },
+  {
+    "title": "Computer Vision in Artificial Intelligence",
+    "issuer": "Pioneers Academy",
+    "date": "November 19, 2024",
+    "category": "AI & Data",
+    "original": "certificates/certificate-Computer-Vision-in-Artificial-Intelligence.jpeg",
+    "preview": "assets/certificates/18.webp"
+  },
+  {
+    "title": "Digital Content Intelligence",
+    "issuer": "Pioneers Academy",
+    "date": "November 21, 2024",
+    "category": "AI & Data",
+    "original": "certificates/certificate-Digital-Content-Intelligence.jpeg",
+    "preview": "assets/certificates/19.webp"
+  },
+  {
+    "title": "Smart Leadership in Supply Chains",
+    "issuer": "Pioneers Academy",
+    "date": "November 18, 2024",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-Smart-Leadership-in-Supply%20Chains.jpeg",
+    "preview": "assets/certificates/20.webp"
+  },
+  {
+    "title": "Leadership in Game Design",
+    "issuer": "Pioneers Academy",
+    "date": "November 20, 2024",
+    "category": "Technology",
+    "original": "certificates/certificate-Leadership-in-Game-Design.jpeg",
+    "preview": "assets/certificates/21.webp"
+  },
+  {
+    "title": "Arduino",
+    "issuer": "Pioneers Academy",
+    "date": "December 8, 2024",
+    "category": "Robotics",
+    "original": "certificates/certificate-Arduino.jpeg",
+    "preview": "assets/certificates/22.webp"
+  },
+  {
+    "title": "Introduction to Python",
+    "issuer": "Pioneers Academy",
+    "date": "July 25, 2024",
+    "category": "Technology",
+    "original": "certificates/certificate-Free-Webinar-introduction-Python-Language.jpeg",
+    "preview": "assets/certificates/23.webp"
+  },
+  {
+    "title": "Exploring Extended Reality: VR, AR & MR",
+    "issuer": "Pioneers Academy",
+    "date": "December 9, 2023",
+    "category": "Technology",
+    "original": "certificates/certificate-Exploring-Extended-Reality-VR.AR-%26-MR.jpeg",
+    "preview": "assets/certificates/24.webp"
+  },
+  {
+    "title": "From University Life to the Job Market",
+    "issuer": "Jordan Engineers Association — Mafraq",
+    "date": "January 2025 · 3 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-Your-Journey-from-University-Life-t-the-Job-Market.jpeg",
+    "preview": "assets/certificates/25.webp"
+  },
+  {
+    "title": "Psychology of Dialogue",
+    "issuer": "Noornee · Nahno",
+    "date": "April 22, 2026 · 3 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-The-Psychology-of-Dialogue.jpeg",
+    "preview": "assets/certificates/26.webp"
+  },
+  {
+    "title": "Ana Usharek — Civic Participation",
+    "issuer": "Independent Election Commission",
+    "date": "2023/2024 · 15 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-ana-ashark.jpeg",
+    "preview": "assets/certificates/27.webp"
+  },
+  {
+    "title": "Usharek+ — Civic Participation",
+    "issuer": "Independent Election Commission",
+    "date": "2024/2025 · 15 hours",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-ashark%2B.jpeg",
+    "preview": "assets/certificates/28.webp"
+  },
+  {
+    "title": "Participation in a Life Skills Study",
+    "issuer": "Nahno",
+    "date": "1 hour",
+    "category": "Leadership & Growth",
+    "original": "certificates/certificate-Participating-in-a-study-on-life-skills.jpeg",
+    "preview": "assets/certificates/29.webp"
+  },
+  {
+    "title": "AI Internship — Letter of Recommendation",
+    "issuer": "DecodeLabs",
+    "date": "July 11, 2026 · Recommendation letter",
+    "category": "AI & Data",
+    "original": "certificates/Letter_of_Recommendation.pdf",
+    "preview": "assets/certificates/30.webp"
+  }
 ]
